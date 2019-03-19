@@ -1,0 +1,6 @@
+Exynap -> for create snippet code fast
+DTO Generator -> Based on JSON generate a corresponding POJO starting of a JSON
+ButterKnife Zelenzy -> Allows one-clic creation of ButterKnife view injections
+Prettify -> Generator for activity setContentView view variables
+Parcelable -> Generates Android Parcelable code for you
+
